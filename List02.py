@@ -9,6 +9,5 @@ def main(list1):
     Returns:
         list: return answer
     """
-    list1=[1,2,3,4,5]
     return list1[0]
-print(main(list[0])) 
+print(main([1,2,3,4,5])) 
