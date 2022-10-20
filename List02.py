@@ -1,3 +1,6 @@
+from re import A
+
+
 def main(list1):
     """
     A list of several elements is given. Return the first item.
@@ -6,4 +9,6 @@ def main(list1):
     Returns:
         list: return answer
     """
-    return
+    list1=[1,2,3,4,5]
+    return list1[0]
+print(main(list[0])) 
